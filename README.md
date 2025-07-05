@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Tayyab — SRE | DevOps Engineer | Cloud Architect in Progress
 
-<!--
-**TayyabSuhail123/TayyabSuhail123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I design and build production-grade cloud infrastructure — fast, secure, and automated.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects I'm Building Now (My GitHub Mission)
+
+- **`terraform-aws-eks-prod`** – Complete AWS EKS setup (✅ Done)
+- **`terraform-azure-aks-prod`** – Azure AKS Infra (🛠️ In Progress)
+- **`vault-gitops-secure`** – Secure GitOps with ArgoCD, ESO, Vault (🛠️ Building Now)
+- **`eks-observability-stack`** – Monitoring, logging, alerting stack on EKS (🗓️ Coming Next)
+
+---
+
+### 🧠 What I Work With
+`AWS` · `Terraform` · `Pulumi` · `ArgoCD` · `Vault` · `GitHub Actions` · `PostgreSQL` · `Kubernetes` · `CI/CD` · `Linux` · `Docker`
+
+---
+
+### 📫 Let's Connect  
+📧 tayyab@email.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/tayyab-suhail/)  
+🌍 Based in Germany
+
+---
+
+*This profile is part of my public learning journey to master cloud engineering and DevOps at the highest level.*
