@@ -7,8 +7,8 @@ I design and build production-grade cloud infrastructure — fast, secure, and a
 ### 🚀 Projects I'm Building Now (My GitHub Mission)
 
 - **`terraform-aws-eks-prod`** – Complete AWS EKS setup (✅ Done)
-- **`terraform-azure-aks-prod`** – Azure AKS Infra (🛠️ In Progress)
 - **`vault-gitops-secure`** – Secure GitOps with ArgoCD, ESO, Vault (🛠️ Building Now)
+- **`terraform-azure-aks-prod`** – Azure AKS Infra (🛠️ In Progress)
 - **`eks-observability-stack`** – Monitoring, logging, alerting stack on EKS (🗓️ Coming Next)
 
 ---
