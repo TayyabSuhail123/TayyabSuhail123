@@ -11,6 +11,9 @@ I design and build production-grade cloud infrastructure — fast, secure, and a
 - **`terraform-azure-aks-prod`** – Azure AKS Infra (🛠️ In Progress)
 - **`eks-observability-stack`** – Monitoring, logging, alerting stack on EKS (🗓️ Coming Next)
 
+
+The final goal is to combine all these projects—and more—into a complete, production-grade system where our app is containerized, deployed automatically with CI/CD best practices, secured with Vault, and fully observable through a robust monitoring and alerting stack.
+
 ---
 
 ### 🧠 What I Work With
