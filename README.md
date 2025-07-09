@@ -22,7 +22,7 @@ The final goal is to combine all these projects—and more—into a complete, pr
 ---
 
 ### 📫 Let's Connect  
-📧 tayyeb.suhail@email.com  
+📧 tayyeb.suhail@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/tayyab-suhail/)  
 🌍 Based in Germany
 
