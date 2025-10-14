@@ -15,7 +15,7 @@ The final goal is to combine all these projects—and more—into a complete, pr
 ---
 
 ### 🧠 What I Work With
-`AWS` · `Terraform` · `Pulumi` · `ArgoCD` · `Vault` · `GitHub Actions` · `PostgreSQL` · `Kubernetes` · `CI/CD` · `Linux` · `Docker`
+`AWS` · `Terraform` · `Pulumi` · `ArgoCD` · `Vault` · `GitHub Actions` · `PostgreSQL` · `Kubernetes` · `CI/CD` · `Linux` · `Docker` · `LLMs`· `Python`· `Coding Agents`· `AI`
 
 ---
 
