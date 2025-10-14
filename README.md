@@ -9,6 +9,7 @@ I design and build production-grade cloud infrastructure — fast, secure, and a
 - **`terraform-aws-eks-prod`** – Complete AWS EKS setup (✅ Done)
 - **`vault-gitops-secure`** – Secure GitOps with ArgoCD, ESO, Vault (✅ Done)
 - **`Copiolt agent`** –  Automated Security & Observability for GitHub Actions (✅ Done)
+- **`SoundCloudDownloader AI set builder`** –  DJ Set Builder & SoundCloud Downloader using AI (✅ Done)
 
 The final goal is to combine all these projects—and more—into a complete, production-grade system where our app is containerized, deployed automatically with CI/CD best practices, secured with Vault, and fully observable through a robust monitoring and alerting stack.
 
