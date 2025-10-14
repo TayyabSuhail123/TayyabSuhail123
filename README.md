@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Tayyab — SRE | DevOps Engineer | Cloud Architect
+# 👋 Hi, I'm Tayyab — SRE | DevOps Engineer | Cloud Architect   (AI expert)
 
 I design and build production-grade cloud infrastructure — fast, secure, and automated.
 
